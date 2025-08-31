@@ -1,4 +1,4 @@
-# GitHub URL Generator
+# GitLinker: A GitHub Profile URL Generator
 
 Get your GitHub profile URL from just your username — quick, simple, and hassle-free!
 
@@ -14,7 +14,7 @@ Get your GitHub profile URL from just your username — quick, simple, and hassl
 
 ## 📋 Description
 
-**GitHub URL Generator** is a lightweight web app that allows users to instantly generate a direct link to a GitHub profile by simply entering a valid username. It features a minimalist interface styled with [Pico CSS](https://picocss.com/).
+**GitLinker** is a lightweight web app that allows users to instantly generate a direct link to a GitHub profile by simply entering a valid username. It features a minimalist interface styled with [Pico CSS](https://picocss.com/).
 
 ---
 
@@ -37,7 +37,8 @@ Get your GitHub profile URL from just your username — quick, simple, and hassl
 
 ## 📂 Project Structure
 
-GitHub-URL-Generator/
+```
+GitLinker/
 ├── img/ # Folder for images used in the project (e.g., logos, screenshots)
 ├── prv/ # Demonstration assets or previews (e.g., GIFs, videos, or demo HTML)
 ├── index.html # Entry point of the application (main HTML structure)
@@ -46,6 +47,7 @@ GitHub-URL-Generator/
 ├── README.md # Project documentation (overview, usage, installation, etc.)
 ├── License.md # License information (e.g., MIT, Apache 2.0)
 └── .gitignore # Specifies intentionally untracked files to ignore in Git
+```
 
 ---
 

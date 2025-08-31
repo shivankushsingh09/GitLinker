@@ -1,0 +1,39 @@
+# Node.js (in case you add tooling later)
+node_modules/
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Env files
+.env
+.env.*
+
+# Coverage reports
+coverage/
+
+# Misc
+*.log
+*.tmp
+*.bak
+

@@ -1,21 +1,37 @@
 # GitLinker: A GitHub Profile URL Generator
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen)](https://git-linker.netlify.app/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
+Get your GitHub profile URL from just your username — quick, simple, and hassle-free!
 
-Generate your GitHub profile URL instantly—just enter your username!
-
-![Screenshot](/img/GitHub-URL-Generator.png)
+![GitHub URL Generator Screenshot](/img/GitHub-URL-Generator.png)
 
 ## 🚀 Live Demo
 
-[Try the app here!](https://git-linker.netlify.app/)
+[Click here to try it out](https://codesandbox.io/p/devbox/ng1-1-forked-ljtzsg)
+
+<!-- Replace `#` with the deployed URL if you host this on GitHub Pages or elsewhere -->
 
 ---
 
 ## 📋 Description
 
-**GitLinker** is a lightweight web app for quickly generating a direct link to any GitHub profile. Enter a GitHub username, and instantly get a clickable profile URL.
+**GitLinker** is a lightweight web app that allows users to instantly generate a direct link to a GitHub profile by simply entering a valid username. It features a minimalist interface styled with [Pico CSS](https://picocss.com/).
+
+---
+
+## ✨ Features
+
+- ✅ Simple and intuitive UI
+- ✅ Real-time validation for GitHub usernames
+- ✅ Instant clickable GitHub URL generation
+- ✅ Clean and responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **CSS3** (with [Pico CSS](https://picocss.com/))
+- **JavaScript (Vanilla JS)**
 
 ---
 
@@ -23,57 +39,49 @@ Generate your GitHub profile URL instantly—just enter your username!
 
 ```
 GitLinker/
-├── img/           # Images (logos, screenshots)
-├── prv/           # Previews (GIFs, videos, demo HTML)
-├── index.html     # App entry point
-├── style.css      # Custom styles
-├── script.js      # JavaScript logic
-├── README.md
-├── LICENSE.md
-└── .gitignore
+├── img/ # Folder for images used in the project (e.g., logos, screenshots)
+├── prv/ # Demonstration assets or previews (e.g., GIFs, videos, or demo HTML)
+├── index.html # Entry point of the application (main HTML structure)
+├── style.css # Custom styling for the HTML (linked in index.html)
+├── script.js # JavaScript logic (URL generation, event handling)
+├── README.md # Project documentation (overview, usage, installation, etc.)
+├── License.md # License information (e.g., MIT, Apache 2.0)
+└── .gitignore # Specifies intentionally untracked files to ignore in Git
 ```
 
 ---
 
 ## 🎮 How to Use
 
-1. Open [`index.html`](./index.html) in your browser.
-2. Enter a GitHub username.
-3. Click "Generate URL".
-4. See the clickable link!
+1. **Open the app** in your browser (`index.html`).
+2. **Enter a GitHub username** in the input field.
+3. **Click the "Generate URL" button**.
+4. A clickable link to the GitHub profile will be displayed.
 
 ---
 
 ## ⚠️ Username Validation Rules
 
-- Usernames can only contain alphanumeric characters or hyphens.
-- No multiple consecutive hyphens.
-- Cannot start or end with a hyphen.
-- Max length: 39 characters.
-
-*Reference: [GitHub username rules](https://github.com/settings/profile)*
+- Usernames may only contain alphanumeric characters or hyphens.
+- Cannot have multiple consecutive hyphens.
+- Cannot begin or end with a hyphen.
+- Maximum length is 39 characters.
 
 ---
 
 ## 📸 Preview
 
-![Preview](/prv/Preview.gif) <!-- Use GIF for inline preview -->
+![Preview](/Prv/Preview.mp4)
 
 ---
 
 ## 📝 License
 
-Licensed under the [MIT License](./LICENSE.md).
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Open issues or pull requests to help improve GitLinker.
+This project is licensed under the terms of the [MIT License](./License.md).
 
 ---
 
 ## 🙌 Acknowledgments
 
-- [Pico CSS](https://picocss.com/) — minimalist CSS
-- [GitHub](https://github.com) — inspiration for profile linking
+- [Pico CSS](https://picocss.com/) — for the minimalist CSS framework
+- GitHub — for inspiring the idea of profile linking

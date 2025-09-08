@@ -39,18 +39,19 @@ Get your GitHub profile URL from just your username — quick, simple, and hassl
 
 ```
 GitLinker/
-├── css/
-│   └── main.css         # Custom styles for the app
-├── img/
-│   └── GitHub-URL-Generator.png # Screenshot asset
-├── js/
-│   └── main.js          # JavaScript logic for URL generation & validation
-├── Prv/
-│   └── Preview.mp4      # Preview video or demo assets
-├── .gitignore           # Untracked files to ignore
-├── index.html           # Entry point of the application
-├── License.md           # License information
-└── README.md            # Project documentation
+├── assets/
+│   ├── css/
+│   │   └── main.css                # Custom styles for the app
+│   ├── img/
+│   │   └── GitHub-URL-Generator.png # Screenshot asset
+│   ├── js/
+│   │   └── main.js                 # JavaScript logic for URL generation & validation
+│   └── Prv/
+│       └── Preview.mp4             # Preview video or demo assets
+├── .gitignore                      # Untracked files to ignore
+├── index.html                      # Entry point of the application
+├── License.md                      # License information
+└── README.md                       # Project documentation
 ```
 
 ---

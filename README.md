@@ -2,7 +2,7 @@
 
 Get your GitHub profile URL from just your username — quick, simple, and hassle-free!
 
-![GitHub URL Generator Screenshot](img/GitHub-URL-Generator.png)
+![GitHub URL Generator Screenshot](/assets/img/GitHub-URL-Generator.png)
 
 ## 🚀 Live Demo
 

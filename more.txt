@@ -1,0 +1,3 @@
+I created GitHub URL Generator as a lightweight, beginner-friendly web tool to help users quickly generate their GitHub profile link using just their username. The goal was to build something useful with minimal setup, clean design, and a focus on simplicity.
+
+https://gitlinker-v1.netlify.app/
